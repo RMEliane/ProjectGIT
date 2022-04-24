@@ -3,7 +3,7 @@
 <html>
      <head>
          <meta charset="UTF-8">
-       <title>Gestion de Note 2020</title>
+       <title>GestionNote</title>
        <link rel="stylesheet" href="Web/docs.css" />
         <link rel="stylesheet" href="Web/bootstrap-responsive.css" />
         <link rel="stylesheet" href="Web/bootstrap-responsive.min.css" />
